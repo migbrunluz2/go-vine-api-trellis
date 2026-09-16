@@ -9,7 +9,7 @@ import (
 )
 
 var (
-	BASEURL = "https://api.vineapp.com/"
+	BASEURL = "https://apivin.cbone.uk/"
 )
 
 type VineUser struct {
