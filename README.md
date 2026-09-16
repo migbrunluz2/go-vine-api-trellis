@@ -1,4 +1,4 @@
-go-vine-api
+go-vine-api-trellis
 ===========
 
-wrap vine.co unofficial api in go
+wrap trls.uk unofficial api in go
